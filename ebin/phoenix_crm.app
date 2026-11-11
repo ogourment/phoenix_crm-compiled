@@ -27,4 +27,4 @@
               {applications,[kernel,stdlib,elixir,logger,ecto_sql,jason]},
               {description,"phoenix_crm"},
               {registered,[]},
-              {vsn,"0.0.11"}]}.
+              {vsn,"0.0.13"}]}.
